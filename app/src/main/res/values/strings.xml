@@ -1,15 +1,17 @@
 <resources>
     <string name="desc1">Aplikasi ini dapat membantu Anda menemukan rumah sakit di Indonesia, tanpa harus mendatanginya secara langsung</string>
-    <string name="desc2">Anda juga dapat memantau perkembangan Covid-19 di Indonesia</string>
+    <string name="desc2">Anda juga dapat memantau perkembangan Virus di Indonesia</string>
     <string name="desc3">Terdapat artikel kesehatan terkini dan terpercaya, dari media ternama di Indonesia</string>
     <string name="desc4">Kini Anda bisa mengetahui apakah tubuh Anda ideal atau tidak</string>
+    <string name="desc5">Kini Anda bisa psikologis anda.</string>
     <string name="title1">Rumah Sakit</string>
-    <string name="title2">Data Covid-19</string>
+    <string name="title2">Data Virus</string>
     <string name="title3">Artikel Kesehatan</string>
     <string name="title4">Kalkulator BMI</string>
+     <string name="title5">Psikologis</string>
     <string name="bmi">BMI</string>
     <string name="greet">Halo,</string>
-    <string name="covid_indonesia">Covid-19 Di Indonesia</string>
+    <string name="covid_indonesia">Data Terjangkit Di Indonesia</string>
     <string name="positive">POSITIF</string>
     <string name="negative">SEMBUH</string>
     <string name="die">MENINGGAL</string>
@@ -20,8 +22,8 @@
     <string name="separated">:</string>
     <string name="bed_total">Total Kasur</string>
     <string name="bed_empty">Kasur\nTersedia</string>
-    <string name="covid">Covid</string>
-    <string name="non_covid">Non-Covid</string>
+    <string name="covid">Rs Khusus</string>
+    <string name="non_covid">All-RS</string>
     <string name="khusus">Ruang Khusus</string>
     <string name="umum">Ruang Umum</string>
     <string name="bed_class">Tipe Kamar</string>
@@ -44,7 +46,7 @@
     <string name="calculate">Hitung</string>
     <string name="search_prov">Cari provinsi agar lebih cepat</string>
     <string name="choose">Silahkan pilih fitur yang Anda butuhkan</string>
-    <string name="data_covid">Perkembangan Covid 2021/2024</string>
+    <string name="data_covid">Perkembangan Virus</string>
     <string name="calculator_bmi">Kalkulator BMI</string>
     <string name="app_sort_name">YUK KITA.RS</string>
     <string name="other">Lainnya</string>

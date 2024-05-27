@@ -31,6 +31,11 @@ class OnboardingPagerAdapter(
                 context.getString(R.string.desc3),
                 R.raw.news
             )
+             5 -> OnboardingFragment.newInstance(
+                context.getString(R.string.title5),
+                context.getString(R.string.desc5),
+                R.raw.news
+            )
             else -> OnboardingFragment.newInstance(
                 context.getString(R.string.title4),
                 context.getString(R.string.desc4),
